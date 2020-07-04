@@ -1,2 +1,2 @@
 # portfolio
-drafting ideas
+troubleshooting new ideas for portolio
