@@ -1,0 +1,92 @@
+html{
+     scroll-behavior: smooth;
+ }
+ .home-page{
+ 	text-align: center;
+ 	font-family: sans-serif;
+ 	background: url(https://www.paintingcontest.org/components/com_djclassifieds/images/item/4/4203_sonoran_desert_sunset-_arizona__thb.jpg);
+ 	background-size: cover;
+    background-position: center;
+    background-color: #44b1cf;
+}
+ .navbar {
+     background-color: #f2f0f0;
+ }
+ul {
+      padding: 10px;
+      background: rgba(230, 230, 230,0.5);
+    }
+li{
+	display: inline-block;
+	text-align: center;
+    padding: 0px 10px 0px 10px;
+
+}
+div.skills{
+	color: white;
+}
+span:hover{
+	color: orange;
+	transition: all .5s;
+	font-size: 75px;
+}
+span.name{
+	color: #fff;
+	padding-top: 30px;
+}
+span.m-left{
+	margin-left: -10px;
+}
+.college{
+	background-image: url('https://www.tcceagles.com/sports/sball/2019-20/photos/Softballs_on_field_after_the_game_redesignrotator.jpg?max_width=1000');
+	background-size: cover;
+}
+div.transbox{
+	margin: 30px;
+	background-color: #fff;
+	border: 2px solid black;
+	opacity: 0.6;
+}
+div.transbox p{
+	margin: 5%;
+	font-weight: bold;
+	color: #000; 
+}
+h2{
+	text-align: center;
+}
+.logo h1{
+	color: black;
+}
+.profile-img{
+	width: 100%;
+	height: auto;
+	position: absolute;
+}
+h1{
+	font-size: 50px;
+	color: #eee;
+	}
+a:hover{
+	background-color: white;
+}
+input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+input[type="submit"] {
+      background: orange;
+      color: white;
+    }
+div.catch-me{
+	display: inline;
+	text-align: center;
+	padding: 20px;
+}
+div.who{
+	color: #fff;
+}
+@media (max-width: 500px)
+
+
