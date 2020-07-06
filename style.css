@@ -1,13 +1,30 @@
 html{
      scroll-behavior: smooth;
+     background: url('screenshots/grass.jpg') no-repeat center center fixed; 
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
  }
+ img{
+ 	width: 295px;
+ 	height: 300px;
+	border-radius: 50%;
+	border: 5px solid white;
+	float: right;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
  .home-page{
  	text-align: center;
  	font-family: sans-serif;
- 	background: url(https://www.paintingcontest.org/components/com_djclassifieds/images/item/4/4203_sonoran_desert_sunset-_arizona__thb.jpg);
+ 	background-position: left top;
+ 	background: url(https://images.squarespace-cdn.com/content/v1/53ba355be4b074d7aaf62904/1588610600916-PJ9MVR6N3UH3SGS9N8KN/ke17ZwdGBToddI8pDm48kFyD7pzB8zoMIVY5aiUuFlp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8DMb5PTLoEDdB05UqhYu-xbnSznFxIRsaAU-3g5IaylIg/different+grass+background.jpg?format=2500w);
  	background-size: cover;
-    background-position: center;
     background-color: #44b1cf;
+    background-repeat: no-repeat;
 }
  .navbar {
      background-color: #f2f0f0;
@@ -58,15 +75,14 @@ h2{
 .logo h1{
 	color: black;
 }
-.profile-img{
-	width: 100%;
-	height: auto;
-	position: absolute;
-}
 h1{
 	font-size: 50px;
 	color: #eee;
 	}
+a{
+	color: orange;
+	font-size: 20px;
+}
 a:hover{
 	background-color: white;
 }
@@ -84,6 +100,9 @@ div.catch-me{
 	text-align: center;
 	padding: 20px;
 }
+/*.old{
+	text-align: center;
+}*/
 div.who{
 	color: #fff;
 }
