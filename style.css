@@ -1,6 +1,7 @@
 html{
      scroll-behavior: smooth;
-     background: url("https://images.squarespace-cdn.com/content/v1/53ba355be4b074d7aaf62904/1588610600916-PJ9MVR6N3UH3SGS9N8KN/ke17ZwdGBToddI8pDm48kFyD7pzB8zoMIVY5aiUuFlp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8DMb5PTLoEDdB05UqhYu-xbnSznFxIRsaAU-3g5IaylIg/different+grass+background.jpg?format=2500w") no-repeat center center fixed; 
+     background: url("https://images.squarespace-cdn.com/content/v1/53ba355be4b074d7aaf62904/1588610600916-PJ9MVR6N3UH3SGS9N8KN/ke17ZwdGBToddI8pDm48kFyD7pzB8zoMIVY5aiUuFlp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8DMb5PTLoEDdB05UqhYu-xbnSznFxIRsaAU-3g5IaylIg/different+grass+background.jpg?format=2500w")center center fixed;
+     background-repeat: repeat;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
